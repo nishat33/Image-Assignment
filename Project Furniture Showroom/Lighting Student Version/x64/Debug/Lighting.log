@@ -1,0 +1,88 @@
+﻿  main.cpp
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(9,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(12,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(13,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(14,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(15,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(16,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(37,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(37,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(37,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(48,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(59,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(70,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(70,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\bed.h(70,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\walls.h(18,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\walls.h(25,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\walls.h(50,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\walls.h(55,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\walls.h(12,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\walls.h(12,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\walls.h(12,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\roundTable.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(17,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(23,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(29,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(35,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(41,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(47,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(53,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(59,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(65,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(10,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(10,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(10,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(90,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(96,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(102,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(108,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(114,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(120,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(126,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(71,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(71,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\sofa.h(71,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(15,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(21,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(27,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(33,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(39,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(45,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(9,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(9,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\chair.h(9,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\Lamp.h(39,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\Lamp.h(39,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\Lamp.h(39,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\Lamp.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\Lamp.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\Pillow.h(18,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\Pillow.h(10,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\Pillow.h(10,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(76,5): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(453,47): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(454,52): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(455,34): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(457,75): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(458,75): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(459,75): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(460,75): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(461,75): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(462,75): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(463,71): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(464,71): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(465,71): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(466,71): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(467,71): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(468,71): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(472,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(479,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(486,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(494,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(499,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(504,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(509,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(514,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\main.cpp(519,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> D:\Study\4-2\Lab\Graphics\Project Furniture Showroom\Lighting Student Version\x64\Debug\Lighting.exe
